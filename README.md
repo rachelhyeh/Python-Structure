@@ -1,12 +1,13 @@
 # Python Structure
 Python structure with practices.
 
-
-##Object-Oriented Programming
+## Fundamental
 - 7_PascalsTriangle
 - 7_LotterySelectBalls (random, sample)
 - 7_JosephusPermutation
 - 7_TicTacToe
+
+## Object-Oriented Programming
 - 8_Clock
 - 8_CoordinateDistance
 - 9_Triangle.py (@staticmethod)
