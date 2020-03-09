@@ -14,6 +14,6 @@ Python structure with practices.
 - 9_Clock_classmethod.py (@classmethod)
 - 9_Person_inheritance (basic inheritance)
 - 9_Pet_polymorphism (@abstractmethod, polymorphism)
-- 9_ActionGame
+- 9_SimpleGame
 - 9_CardGame
 - 9_Salaries
