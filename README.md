@@ -17,3 +17,4 @@ Python structure with practices.
 - 9_SimpleGame
 - 9_CardGame
 - 9_Salaries
+- 9_Music
