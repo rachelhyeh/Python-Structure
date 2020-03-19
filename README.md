@@ -6,6 +6,10 @@ Python structure with practices.
 - 7_LotterySelectBalls (random, sample)
 - 7_JosephusPermutation
 - 7_TicTacToe
+- 11_ReadFile
+- 11_SaveFiles
+- 11_WriteFiles
+- 11_Savefiles_JSON (JSON)
 
 ## Object-Oriented Programming
 - 8_Clock
@@ -18,3 +22,6 @@ Python structure with practices.
 - 9_CardGame
 - 9_Salaries
 - 9_Music
+- 9_CardGame_BlackJackSimulator
+- 10_Adder_tkinter (GUI, tkinter)
+- 10_Game_GUI (GUI, tkinter)
