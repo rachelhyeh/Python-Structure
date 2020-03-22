@@ -6,10 +6,10 @@ Python structure with practices.
 - 7_LotterySelectBalls (random, sample)
 - 7_JosephusPermutation
 - 7_TicTacToe
-- 11_ReadFile
-- 11_SaveFiles
-- 11_WriteFiles
+- 11_ReadSaveWriteFiles
 - 11_Savefiles_JSON (JSON)
+- 12_reModule (regular expression)
+- 12_ReverseString (escape character, raw string)
 
 ## Object-Oriented Programming
 - 8_Clock
