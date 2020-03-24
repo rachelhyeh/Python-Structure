@@ -11,6 +11,8 @@ Python structure with practices.
 - 11_Savefiles_JSON (JSON)
 - 12_reModule (regular expression)
 - 12_ReverseString (escape character, raw string)
+- 13_MultiProcessing (Process)
+- 13_MultiThreading (Thread, lock)
 
 ## Object-Oriented Programming
 - 8_Clock
