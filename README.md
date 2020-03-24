@@ -13,6 +13,8 @@ Python structure with practices.
 - 12_ReverseString (escape character, raw string)
 - 13_MultiProcessing (Process)
 - 13_MultiThreading (Thread, lock)
+- 13_CleanHouse_multiThreading (Thread, tkinter)
+- 13_Add100Millions_multiProcessing (Process, Queue)
 
 ## Object-Oriented Programming
 - 8_Clock
